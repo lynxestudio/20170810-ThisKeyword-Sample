@@ -1,4 +1,4 @@
-# The this Reference</title>
+# The this Reference
      
  <p align="justify">
 Every object can access a reference to itself, called the this reference. The this reference can refer implicitly to the instance variable, properties and methods of an object.
@@ -9,7 +9,6 @@ Two uses of the this keyword are:
 <li>To resolve ambiguity between instance variables and parameters</li>
 <li>To pass the current object as a parameter to another method</li>
 </ol>
-The following class demonstrates these uses.
 </p>
 <p align="justify">
 The first constructor receives three uint parameters which names are identical to the instance variables of the class. I did this to illustrate explicit use of the <b>this</b> reference.

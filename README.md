@@ -15,7 +15,7 @@ The first constructor receives three uint parameters which names are identical t
 </p>
 <div><b>Fig 1 This reference output</b></div><br>
 <div>
-<IMG src="picture_library/thisreference/thisreferenceout.png">
+<IMG src="images/thisreferenceout.png">
 </div><br> 
 <p align="justify">
 The explicit use of the <b>this</b> reference can increase program clarity in some contexts where <b>this</b> is optional.
